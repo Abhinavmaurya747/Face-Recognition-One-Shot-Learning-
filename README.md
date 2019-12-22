@@ -3,7 +3,7 @@
 This project is based on **Siamese Neural Networks &amp; Triplet Loss Functions**
 
 ## Used research papers :-
-<b>1. DeepFace: Closing the Gap to Human-Level Performance in Face Verification
+<b>1. DeepFace: Closing the Gap to Human-Level Performance in Face Verification<br>
 2. FaceNet: A Unified Embedding for Face Recognition and Clustering</b>
 
 ## Description :-
