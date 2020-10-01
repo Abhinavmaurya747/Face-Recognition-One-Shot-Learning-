@@ -20,6 +20,8 @@ For every new image the image is added to our model without retraining our model
   6. H5py<br>
   7. Matplotlib<br>
   
+  Facerecognition is very good technique to recognise face. 
+  
 
 
   
